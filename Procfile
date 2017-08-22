@@ -1,1 +1,1 @@
-web: ./build/install/Superheroes/bin/superheroes
+web: ./build/install/superheroes/bin/superheroes

@@ -6,24 +6,7 @@ import java.util.ArrayList;
 
 public class SquadTest {
 
-  // @Test
-  // public void name_addsHeroToGroupAndGetsHeroName_String() {
-  //   Squad testSquad = new Squad("Squad A");
-  //   Hero testHero = new Hero("Scorpion", 42, "Hellfire", "Subzero");
-  //   testSquad.addHero(testHero);
-  //   assertEquals("Scorpion", testSquad.heroName(0));
-  // }
-
-  // @Test
-  // public void name_getsGroupOfSquad_String() {
-  //   Squad testSquad = new Squad("Squad A");
-  //   Hero testHero = new Hero("Scorpion", 42, "Hellfire", "Subzero");
-  //   Hero testHero2 = new Hero("Raiden", 47, "Lightning", "Shinnok");
-  //   testSquad.addHero(testHero);
-  //   testSquad.addHero(testHero2);
-  //   String listOfHeroes = testSquad.heroName(0) + " " + testSquad.heroName(1);
-  //   assertEquals("Scorpion Raiden", listOfHeroes);
-  // }
+  
 
   @Test
   public void all_returnsAllInstancesOfSquad_true() {
